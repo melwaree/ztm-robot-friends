@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import GithubCorner from 'react-github-corner';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
@@ -44,6 +45,7 @@ class App extends Component {
                 <div id="stars"></div>
                 <div id="stars2"></div>
                 <div id="stars3"></div>
+                <GithubCorner href="https://github.com/melwaree"/>
                 <h1 className="effect-shine">Robofriends</h1>
                 <SearchBox searchChange={this.onSearchChange}/>
                 <Scroll>
