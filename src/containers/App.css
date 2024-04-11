@@ -19,6 +19,16 @@ h1 {
     text-shadow: #FC0 1px 0 10px;
 }
 
+h6 {
+  font-family: monospace;
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 50;
+  margin: 0.5rem;
+  color: whitesmoke;
+  text-shadow: #FC0 1px 0 5px;
+}
+
 #stars {
 	content:"e";
   background: transparent;
