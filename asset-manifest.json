@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ztm-robot-friends/static/css/main.9439a216.css",
-    "main.js": "/ztm-robot-friends/static/js/main.ef59f7c0.js",
+    "main.css": "/ztm-robot-friends/static/css/main.5f4660f4.css",
+    "main.js": "/ztm-robot-friends/static/js/main.98595931.js",
     "static/media/play_pretend-webfont.woff": "/ztm-robot-friends/static/media/play_pretend-webfont.42d86521080e009b9b6d.woff",
     "static/media/play_pretend-webfont.woff2": "/ztm-robot-friends/static/media/play_pretend-webfont.ec8dcf1e719594bae603.woff2",
     "index.html": "/ztm-robot-friends/index.html",
-    "main.9439a216.css.map": "/ztm-robot-friends/static/css/main.9439a216.css.map",
-    "main.ef59f7c0.js.map": "/ztm-robot-friends/static/js/main.ef59f7c0.js.map"
+    "main.5f4660f4.css.map": "/ztm-robot-friends/static/css/main.5f4660f4.css.map",
+    "main.98595931.js.map": "/ztm-robot-friends/static/js/main.98595931.js.map"
   },
   "entrypoints": [
-    "static/css/main.9439a216.css",
-    "static/js/main.ef59f7c0.js"
+    "static/css/main.5f4660f4.css",
+    "static/js/main.98595931.js"
   ]
 }
